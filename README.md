@@ -53,6 +53,6 @@ This project is licensed under the [Apache 2.0 License](LICENSE).
 
 **Required**. Include any additional resources that users may need or find useful when using your software. Additional resources might include the following:
 
-* *Link to videos on SAS Video Portal (once posted)*
+* [SAS Video Portal](https://video.sas.com/category/videos/sas-viya-quick-start)
 * [SAS Viya Community](https://communities.sas.com/t5/SAS-Viya/ct-p/viya)
 * [SAS Viya Learning and Support](https://support.sas.com/en/software/sas-viya.html)
